@@ -27,7 +27,6 @@ body{
     justify-content: center;
     height: 100vh;
     background: var(--Pale-blue);
-    background: var(--Dark-blue);
 }
 
 main {
@@ -182,7 +181,7 @@ article {
         height: 80vh;
     }
         main {
-        padding-top: 2rem;
+        padding-top: 7rem;
         background-image: url(images/pattern-background-mobile.svg);
         background-size:contain;
         height: 90rem;
