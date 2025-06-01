@@ -181,72 +181,77 @@ article {
         height: 80vh;
     }
         main {
-        padding-top: 7rem;
+        padding-top: 1rem;
         background-image: url(images/pattern-background-mobile.svg);
         background-size:contain;
         height: 90rem;
-        width: 40rem;
+        width: 25rem;
     }
 
     article {
-        width: 28rem;
-        height: 50.5rem;
+        width: 18rem;
+        height: 34rem;
     }
 
     .title-image{
-        max-width: 28rem;
+        max-width: 18rem;
     }
 
     .groups {
-        padding: 0 2rem;
+        padding: 0 1.2rem;
+        height: 26rem;
+        overflow: hidden;
     }
 
     .title {
-        font-size: 2rem;
-        padding: 1.5rem 0;
+        font-size: 1.2rem;
+        padding: 0.5rem 0;
     }
 
     .desc {
-        font-size: 1.35rem;
-        padding: 1rem 0.1rem;
+        font-size: 0.85rem;
+        padding: 0.5rem 0.1rem;
+        margin: 0.4rem 0;
     }
 
     .section.item2 {
-        padding: 1.5rem 0.5rem;
-        margin: 1.6rem 0;
+        padding: 0.5rem 0.5rem 0.8rem;
+        margin: 0.6rem 0 1.5rem;
     }
 
     .icon {
-        padding-right: 1rem;
-        height: 4rem;
+        margin: 0.4rem;
+        padding-right: 0.5rem;
+        height: 2.5rem;
     }
 
     .annual-offer {
-        padding-right: 2rem;
+        padding-right: 0.2rem;
     }
 
     .annual-plan {
-        font-size: 1.4rem;
+        font-size: 0.9rem;
         padding-bottom: 0.3rem;
     }
 
     .amount {
-        font-size: 1.4rem;
+        font-size: 0.9rem;
         color: var(--Desaturated-blue);
     }
 
     .change {
-        font-size: 1.4rem;
-        padding-left: 2rem;
+        font-size: 0.9rem;
+        padding-left: 1.5rem;
     }
 
     .section.item3 {
-        gap: 1rem;
-        padding: 1.5rem 0;
+        gap: 0.5rem;
+        padding: 0.5rem 0;
+        margin: 1.2rem 0 0;
     }
 
     .btn {
-        height: 4.2rem;
+        font-size: 0.8rem;
     }
 
 }
